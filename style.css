@@ -91,9 +91,18 @@ h2 {
   margin: 15px 0;
 }
   
-.copyright {
-    color: #aaa;
-    letter-spacing: 0.2rem;
-    font-weight: 300;
-    text-align: center;
-  }
+.footer{
+    color: #333;
+}
+
+.copyright{
+    margin-top: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.email{
+    margin-top: 0;
+    display: flex;
+}
